@@ -3,4 +3,3 @@ A repository for the In Her Shoes virtual reality simulation project. This proje
 
 2021
 
-This is a temporary test by James
