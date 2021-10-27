@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 901581897602624578}
   - component: {fileID: 4283766057116138023}
   m_Layer: 0
-  m_Name: Hand Shape
+  m_Name: Hand Rectangle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
