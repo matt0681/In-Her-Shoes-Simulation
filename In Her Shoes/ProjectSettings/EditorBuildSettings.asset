@@ -15,5 +15,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Card_1_House.unity
     guid: ab3a49061265af440b682ecbf6e9e508
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: fa5b974aca5420c498051cb62d619b82, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 551f4bfe8856322458fc3ba71f5eeb2c, type: 2}
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 0e633c8c17021f643b2905b60de324a4, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c0784b6ac45785346b993cdf522b1b47, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 2f0b00c892f332646820c3d6bd87e48e, type: 2}
