@@ -5,15 +5,24 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Main Menu.unity
     guid: b091513d4beca394894d5a228d7e097a
   - enabled: 1
     path: Assets/Scenes/Card_1_House.unity
     guid: ab3a49061265af440b682ecbf6e9e508
+  - enabled: 1
+    path: Assets/Scenes/Bedroom.unity
+    guid: 0cc44442902321f488a0cb527db39bc2
+  - enabled: 1
+    path: Assets/Scenes/Courtroom.unity
+    guid: 5347e218dfa81ad4691bd1e5a51d651c
+  - enabled: 1
+    path: Assets/Scenes/Interogation room.unity
+    guid: 5e4e573c3970916489c96c11772b01b3
+  - enabled: 1
+    path: Assets/Scenes/Operating Room.unity
+    guid: 5b64c0a04b03dd44d9211818288d3226
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 0e633c8c17021f643b2905b60de324a4, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c0784b6ac45785346b993cdf522b1b47, type: 2}
