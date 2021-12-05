@@ -978,7 +978,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 570659480}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.0000032346}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.4, y: 0.4, z: 0.4}
   m_Children: []
   m_Father: {fileID: 2021439370}
@@ -986,8 +986,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0000019073, y: 78}
-  m_SizeDelta: {x: 914.35, y: 169.42}
+  m_AnchoredPosition: {x: 2.97, y: 31.06}
+  m_SizeDelta: {x: 929.17, y: 404.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &570659482
 MonoBehaviour:
@@ -1016,14 +1016,39 @@ MonoBehaviour:
     m_BestFit: 1
     m_MinSize: 0
     m_MaxSize: 300
-    m_Alignment: 4
+    m_Alignment: 3
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua.'
+  m_Text: 'Duis viverra tincidunt enim eu commodo. Cras a velit quis enim laoreet
+    dignissim. Fusce bibendum est non lacus pharetra, et viverra enim iaculis. Curabitur
+    sagittis, ante vel dapibus feugiat, diam nibh commodo metus, in semper felis
+    purus nec velit. Pellentesque id ornare ipsum, vitae pellentesque nulla. Quisque
+    et lectus vitae elit sollicitudin consectetur. Nullam nisi lorem, convallis sed
+    lacus sed, sollicitudin porta turpis. Donec convallis tortor facilisis augue
+    consectetur, vitae pharetra massa feugiat. Ut orci orci, consectetur id metus
+    in, facilisis tincidunt turpis. Cras venenatis tincidunt tellus gravida auctor.
+    Ut ac arcu lorem. Ut fermentum at nisl non dictum. Pellentesque id orci eu ligula
+    iaculis gravida. Orci varius natoque penatibus et magnis dis parturient montes,
+    nascetur ridiculus mus. Etiam mi quam, pretium ac purus nec, faucibus convallis
+    purus. Vivamus eros justo, varius a congue quis, feugiat eu odio.
+
+
+    Duis
+    viverra tincidunt enim eu commodo. Cras a velit quis enim laoreet dignissim.
+    Fusce bibendum est non lacus pharetra, et viverra enim iaculis. Curabitur sagittis,
+    ante vel dapibus feugiat, diam nibh commodo metus, in semper felis purus nec
+    velit. Pellentesque id ornare ipsum, vitae pellentesque nulla. Quisque et lectus
+    vitae elit sollicitudin consectetur. Nullam nisi lorem, convallis sed lacus sed,
+    sollicitudin porta turpis. Donec convallis tortor facilisis augue consectetur,
+    vitae pharetra massa feugiat. Ut orci orci, consectetur id metus in, facilisis
+    tincidunt turpis. Cras venenatis tincidunt tellus gravida auctor. Ut ac arcu
+    lorem. Ut fermentum at nisl non dictum. Pellentesque id orci eu ligula iaculis
+    gravida. Orci varius natoque penatibus et magnis dis parturient montes, nascetur
+    ridiculus mus. Etiam mi quam, pretium ac purus nec, faucibus convallis purus.
+    Vivamus eros justo, varius a congue quis, feugiat eu odio.'
 --- !u!222 &570659483
 CanvasRenderer:
   m_ObjectHideFlags: 0
