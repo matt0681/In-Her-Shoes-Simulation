@@ -1124,8 +1124,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2096060560}
   m_HandleRect: {fileID: 2096060559}
   m_Direction: 2
-  m_Value: 1
-  m_Size: 0.070166424
+  m_Value: 0.9816006
+  m_Size: 0.2250095
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -2111,8 +2111,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -15.95, y: -1149.795}
-  m_SizeDelta: {x: 325.29, y: 2473.12}
+  m_AnchoredPosition: {x: -15.95, y: -255.46503}
+  m_SizeDelta: {x: 325.29, y: 684.46}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1279801308
 MonoBehaviour:
@@ -2147,16 +2147,16 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "My name is danielle Lutton and I'm 32 years old. I work as an accountant
+  m_Text: "\nMy name is Danielle Lutton and I'm 32 years old. I work as an accountant
     and I have the most brilliant, beautiful daughter in the world. I know all mothers
     say that, but with Christina, it's really true. I'd die for her in a heartbeat.
     \n\nI don't know what else to say about myself - there isn't anything unusual.
     I grew up in the suburbs outside of Phoenix with my parents and my sister. My
     parents have a wonderful, loving relationship. Dad is a doctor; he's retired
-    ow. My mother went back to school a few years ago and now she works in real estate.
-    \n\nI met John at church. He helped with the choir for a while. He had the most
-    beautiful tenor voice. I always tell people that I fell in love with his voice.
-    I could listen to him sing all day.\n\nThe problems began later."
+    now. My mother went back to school a few years ago and now she works in real
+    estate. \n\nI met John at church. He helped with the choir for a while. He had
+    the most beautiful tenor voice. I always tell people that I fell in love with
+    his voice. I could listen to him sing all day.\n\nThe problems began later."
 --- !u!222 &1279801309
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3786,8 +3786,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 13.74, y: 2.8999977}
-  m_SizeDelta: {x: 401.64, y: 173.53}
+  m_AnchoredPosition: {x: 13.74, y: 12.66}
+  m_SizeDelta: {x: 401.64, y: 154.01}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1967474132
 MonoBehaviour:
