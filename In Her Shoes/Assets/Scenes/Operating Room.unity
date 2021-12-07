@@ -1585,8 +1585,12 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua.'
+  m_Text: "You bring Christina in for her check-up. You ask to speak to the doctor
+    in private and tell him that you're concerned that John has been mistreating
+    her. \n\nThe doctor pats you on the back, \"My wife used to say the same thing.
+    It's that maternal instinct. You know there's no substitute for a mother's love.
+    But don't worry, there's nothing wrong with your daughter.\"\n\nHe gives Christina
+    a grape lollipop."
 --- !u!222 &1564852262
 CanvasRenderer:
   m_ObjectHideFlags: 0
