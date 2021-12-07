@@ -560,8 +560,14 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua.'
+  m_Text: "You find an apartment in California. It's spacious and bright and you
+    feel like you can relax for the first time in ages. Christina quickly becomes
+    friends with teh kids next door. You get a recommendation for a child psychologist
+    and set up an appointment.\n\nOne evening, a police officer arrives at your door.
+    He asks you if you're Danielle Lutton. You say yes. He tells you that he has
+    a warrant out for your arrest. He explains that John has gotten a special court
+    paper saying that you kidnapped Christina and fled the state. \n\nYou demand
+    to talk to a lawyer. The officer tells you that you can call a lawyer from jail."
 --- !u!222 &48327556
 CanvasRenderer:
   m_ObjectHideFlags: 0

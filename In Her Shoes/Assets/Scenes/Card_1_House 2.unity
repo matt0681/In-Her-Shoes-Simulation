@@ -1022,16 +1022,18 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "My name is Danielle Lutton and I'm 32 years old. I work as an accountant
-    and I have the most brilliant, beautiful daughter in the world. I know all mothers
-    say that, but with Christina, it's really true. I'd die for her in a heartbeat.
-    \n\nI don't know what else to say about myself - there isn't anything unusual.
-    I grew up in the suburbs outside of Phoenix with my parents and my sister. My
-    parents have a wonderful, loving relationship. Dad is a doctor; he's retired
-    now. My mother went back to school a few years ago and now she works in real
-    estate. \n\nI met John at church. He helped with the choir for a while. He had
-    the most beautiful tenor voice. I always tell people that I fell in love with
-    his voice. I could listen to him sing all day.\n\nThe problems began later."
+  m_Text: "You come home from a long day at work at your accounting firm. Business
+    is good, but almost too good - you feel guilty for the time you spend away from
+    your 3-year-old daughter Christina. As you walk up the steps to your house, you
+    hear Christina screaming and crying. You run inside. John is sitting on the couch,
+    TV remote control in hand. \n\nYou race past him to Christina's room. She rushes
+    to you and you realize she's wet her bed. When you confront John, he complains
+    that he just wanted a little peace and quiet. What kind of a mother are you,
+    he asks, always away from her child? You continue yelling until he says, \"I've
+    had enough.\"\n\nHe slaps you across the face. He throws the remote control on
+    the ground, grabs his car keys and says, \"I've had it. You think I'm a shitty
+    father, you're right. I never wanted to have a goddamned child in the first place.
+    From now on, you're on your own.\" You hear the tires squeal out of the driveway."
 --- !u!222 &570659483
 CanvasRenderer:
   m_ObjectHideFlags: 0

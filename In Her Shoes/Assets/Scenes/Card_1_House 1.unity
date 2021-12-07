@@ -1022,16 +1022,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "My name is Danielle Lutton and I'm 32 years old. I work as an accountant
-    and I have the most brilliant, beautiful daughter in the world. I know all mothers
-    say that, but with Christina, it's really true. I'd die for her in a heartbeat.
-    \n\nI don't know what else to say about myself - there isn't anything unusual.
-    I grew up in the suburbs outside of Phoenix with my parents and my sister. My
-    parents have a wonderful, loving relationship. Dad is a doctor; he's retired
-    now. My mother went back to school a few years ago and now she works in real
-    estate. \n\nI met John at church. He helped with the choir for a while. He had
-    the most beautiful tenor voice. I always tell people that I fell in love with
-    his voice. I could listen to him sing all day.\n\nThe problems began later."
+  m_Text: He really loves me. He just gets carried away sometimes and doesn't know
+    what he's doing. He'll learn how to be a good parent.
 --- !u!222 &570659483
 CanvasRenderer:
   m_ObjectHideFlags: 0

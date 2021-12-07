@@ -2016,20 +2016,16 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'It''s one of the hardest battles of your life. Even though John always
-    insisted that he didn''t want the responsibility of being a dad, he''s suddenly
-    changed his tune and now is fighting you for full custody. You know that he''s
-    doing this as a way to get back to you, not because of Christina.
-
-
-    The Court
-    assigns an independent evaluator to your who recommends that you get full custody,
-    but finds evidence of sexual abuse "inconclusive." Nevertheless, your attorney
-    argues for supervised visitation and the court grants it.
-
-
-    After the first
-    month, John stops showing up for his visits. '
+  m_Text: "Your'e still shaken up from what happened last night. You ask Christina
+    if she's all right and she keeps repeating, \"Daddy scary, daddy scary.\" You
+    apply for a Protection Order and the court gives you one, good until your hearing
+    in two weeks. At the hearing, John walks in with an expensive-looking attorney.\n\nYou
+    ask the Court to give John supervised visites only, you don't want him to be
+    alone with Christina. The attorney tells the judge that you're mentally unstable,
+    a workaholic and an alcoholic. He says that John's been a great father since
+    the day Christina was born. \n\nThe judge takes John's side and gives him visits
+    two nights a week. You beg the judge to reconsider, but he says, \"I've already
+    made my ruling.\""
 --- !u!222 &632835232
 CanvasRenderer:
   m_ObjectHideFlags: 0
