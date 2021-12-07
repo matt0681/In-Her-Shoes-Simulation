@@ -5,7 +5,7 @@ using UnityEngine.EventSystems;
 
 public class CanvasPointer : MonoBehaviour {
 
-    public float defaultLength = 3.0f;
+    public float defaultLength = 5.0f;
 
     public EventSystem eventSystem = null;
     public StandaloneInputModule inputModule = null;
@@ -39,7 +39,7 @@ public class CanvasPointer : MonoBehaviour {
     private float GetCanvasDistance() {
         // Get data
         PointerEventData eventData = new PointerEventData(eventSystem);
-        eventData.position = inputModule.inputOverride.mousePosition;
+        // eventData.position = inputModule.inputOverride.mousePosition;
 
         // Raycast using data
         List<RaycastResult> results = new List<RaycastResult>();
@@ -67,7 +67,7 @@ public class CanvasPointer : MonoBehaviour {
     }
 
     private Vector3 CalculateEnd(float length) {
-        return transform.position + (transform.forward * length);
+        return transform.position - (transform.forward * length);
     }
 }
 
