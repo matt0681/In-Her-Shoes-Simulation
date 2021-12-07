@@ -331,7 +331,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Option 2
+  m_Text: N/A
 --- !u!222 &168124256
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1022,12 +1022,18 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "John seems to be making an extra effort to be nice to you, cooking you
-    dinner when you work late and surprising you at work with a dozen yellow roses.
-    \n\nBut Christina begins to act more aggressively. One weekend, John goes to
-    visit his brother in Montana. Christina tells you that daddy touched her \"down
-    there,\" and that she saw \"daddy's penis throw up.\"\n\nYou could kill yourself
-    for returning to John when your gut told you to stay away. You plan to leave."
+  m_Text: "You come home from a long day at work at your accounting firm. Business
+    is good, but almost too good - you feel guilty for the time you spend away from
+    your 3-year-old daughter Christina. As you walk up the steps to your house, you
+    hear Christina screaming and crying. You run inside. John is sitting on the couch,
+    TV remote control in hand. \n\nYou race past him to Christina's room. She rushes
+    to you and you realize she's wet her bed. When you confront John, he complains
+    that he just wanted a little peace and quiet. What kind of a mother are you,
+    he asks, always away from her child? You continue yelling until he says, \"I've
+    had enough.\"\n\nHe slaps you across the face. He throws the remote control on
+    the ground, grabs his car keys and says, \"I've had it. You think I'm a shitty
+    father, you're right. I never wanted to have a goddamned child in the first place.
+    From now on, you're on your own.\" You hear the tires squeal out of the driveway."
 --- !u!222 &570659483
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2877,7 +2883,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Option 1
+  m_Text: COURT
 --- !u!222 &1676567988
 CanvasRenderer:
   m_ObjectHideFlags: 0

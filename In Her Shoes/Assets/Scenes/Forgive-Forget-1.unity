@@ -331,7 +331,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Option 2
+  m_Text: N/A
 --- !u!222 &168124256
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1022,19 +1022,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "You visit Anne Marie in her ceramics studio. She gives Christina a ball
-    of clay to play with and the two of you talk just out of Christina's earshot.
-    \n\nYou tell Anne Marie that you feel like you're going crazy - no is taking
-    you seriously. Its so hard to know what's normal anymore. You tell her that Christina
-    returns from John's house acting strange. She has started touching herself in
-    the bath and throwing temper tantrums. Anne Marie reminds you that you've always
-    been a worrier, and that everything's probably fine. \n\nShe tells you that John
-    has called a few times to ask about you, and that he really misses you. \"He
-    might not be the best father in the world,\" she says, \"but it's hard to go
-    it alone, don't you think? Hell, if I had a man like John, I wouldn't give him
-    up for the world. No one's perfect, Danielle.\"\n\nYou feel depressed and confused
-    after talking to Anne Marie. Maybe you're just over-protecting and a warrywart.
-    You decide to give the relationship another try."
+  m_Text: He really loves me. He just gets carried away sometimes and doesn't know
+    what he's doing. He'll learn how to be a good parent.
 --- !u!222 &570659483
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2884,7 +2873,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Option 1
+  m_Text: ABUSE HAPPENS
 --- !u!222 &1676567988
 CanvasRenderer:
   m_ObjectHideFlags: 0
