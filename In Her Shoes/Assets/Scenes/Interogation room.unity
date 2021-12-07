@@ -1064,13 +1064,16 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'You''re hysterical. You feel like you''ve died and gone to hell. Your
-    mother visits you and tell you that took Christina and brought her back to Washington
-    State, where she''s in the custody of Child Protective Services. Your mother
-    has hired an attorney in Washington to help make sure that Christina doesn''t
-    get placed with John. A week later, you are extradited to Washington, where you
+  m_Text: "You're hysterical. You feel like you've died and gone to hell. Your mother
+    visits you and tell you that took Christina and brought her back to Washington
+    State, where she's in the custody of Child Protective Services. Your mother has
+    hired an attorney in Washington to help make sure that Christina doesn't get
+    placed with John. \n\nA week later, you are extradited to Washington, where you
     are released on bail. CPS places Christina with your twin sister Anne Marie.
-    A month later, the charges are dropped are Christina is returned to you. '
+    \n\nA month later, the charges are dropped are Christina is returned to you.
+    \n\nWhat's next?\n\nIf you want to fight for full custody, go to COURT.\n\nIf
+    you want to meet with other women who have been in your situation, go to SUPPORT
+    GROUP."
 --- !u!222 &603365589
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2427,7 +2430,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Courtroom
+          m_StringArgument: Court-2
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &2081877087

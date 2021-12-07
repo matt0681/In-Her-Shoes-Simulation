@@ -349,7 +349,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Operating Room
+          m_StringArgument: Interogation Room
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &32269787
@@ -567,7 +567,8 @@ MonoBehaviour:
     He asks you if you're Danielle Lutton. You say yes. He tells you that he has
     a warrant out for your arrest. He explains that John has gotten a special court
     paper saying that you kidnapped Christina and fled the state. \n\nYou demand
-    to talk to a lawyer. The officer tells you that you can call a lawyer from jail."
+    to talk to a lawyer. The officer tells you that you can call a lawyer from jail.\n\nWhat's
+    next?\n\nGo to POLICE."
 --- !u!222 &48327556
 CanvasRenderer:
   m_ObjectHideFlags: 0

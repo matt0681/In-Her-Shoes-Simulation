@@ -23,6 +23,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Operating Room.unity
     guid: 5b64c0a04b03dd44d9211818288d3226
+  - enabled: 1
+    path: Assets/Scenes/AbuseHappens-1.unity
+    guid: e6d0e829532d4634a9aa9eb61715c316
+  - enabled: 1
+    path: Assets/Scenes/AbuseHappens-2.unity
+    guid: 4290abd1160ee86428c9fcd30acc048e
+  - enabled: 1
+    path: Assets/Scenes/Court-2.unity
+    guid: d908519876e74a24896f4db721740d06
+  - enabled: 1
+    path: Assets/Scenes/Forgive-Forget-1.unity
+    guid: e6948107b7c21ec449df94b8e7a023a0
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 0e633c8c17021f643b2905b60de324a4, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c0784b6ac45785346b993cdf522b1b47, type: 2}

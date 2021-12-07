@@ -2016,20 +2016,16 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'It''s one of the hardest battles of your life. Even though John always
-    insisted that he didn''t want the responsibility of being a dad, he''s suddenly
-    changed his tune and now is fighting you for full custody. You know that he''s
-    doing this as a way to get back to you, not because of Christina.
-
-
-    The Court
+  m_Text: "It's one of the hardest battles of your life. Even though John always
+    insisted that he didn't want the responsibility of being a dad, he's suddenly
+    changed his tune and now is fighting you for full custody. You know that he's
+    doing this as a way to get back to you, not because of Christina.\n\nThe Court
     assigns an independent evaluator to your who recommends that you get full custody,
-    but finds evidence of sexual abuse "inconclusive." Nevertheless, your attorney
-    argues for supervised visitation and the court grants it.
-
-
-    After the first
-    month, John stops showing up for his visits. '
+    but finds evidence of sexual abuse \"inconclusive.\" Nevertheless, your attorney
+    argues for supervised visitation and the court grants it.\n\nAfter the first
+    month, John stops showing up for his visits. \n\nWhat's next?\n\nIf you want
+    to bring Christina to the doctor, go to MEDICAL.\n\nIf you want to report John's
+    abusive behaviors to Child Protective Services, go to CPS."
 --- !u!222 &632835232
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3456,7 +3452,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Main Menu
+          m_StringArgument: Operating Room
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1349516908
