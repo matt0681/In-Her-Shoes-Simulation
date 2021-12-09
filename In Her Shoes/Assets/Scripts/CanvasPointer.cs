@@ -40,6 +40,7 @@ public class CanvasPointer : MonoBehaviour {
         // Get data
         PointerEventData eventData = new PointerEventData(eventSystem);
         // eventData.position = inputModule.inputOverride.mousePosition;
+        eventData.position = Input.mousePosition;
 
         // Raycast using data
         List<RaycastResult> results = new List<RaycastResult>();
