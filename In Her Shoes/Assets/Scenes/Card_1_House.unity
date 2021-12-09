@@ -855,7 +855,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -103.3, y: -77}
+  m_AnchoredPosition: {x: -103.3, y: -79}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &377793753
@@ -1051,9 +1051,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 549482451}
-  - component: {fileID: 549482454}
   - component: {fileID: 549482453}
   - component: {fileID: 549482452}
+  - component: {fileID: 549482454}
+  - component: {fileID: 570659483}
   m_Layer: 5
   m_Name: Scrollbar
   m_TagString: Untagged
@@ -1124,8 +1125,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2096060560}
   m_HandleRect: {fileID: 2096060559}
   m_Direction: 2
-  m_Value: 0.9816006
-  m_Size: 0.2250095
+  m_Value: 0.98238057
+  m_Size: 0.21763276
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1150,30 +1151,24 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 48
-    m_FontStyle: 0
-    m_BestFit: 1
-    m_MinSize: 0
-    m_MaxSize: 300
-    m_Alignment: 3
-    m_AlignByGeometry: 0
-    m_RichText: 1
-    m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
-    m_LineSpacing: 1
-  m_Text: "My name is Danielle Lutton and I'm 32 years old. I work as an accountant
-    and I have the most brilliant, beautiful daughter in the world. I know all mothers
-    say that, but with Christina, it's really true. I'd die for her in a heartbeat.
-    \n\nI don't know what else to say about myself - there isn't anything unusual.
-    I grew up in the suburbs outside of Phoenix with my parents and my sister. My
-    parents have a wonderful, loving relationship. Dad is a doctor; he's retired
-    now. My mother went back to school a few years ago and now she works in real
-    estate. \n\nI met John at church. He helped with the choir for a while. He had
-    the most beautiful tenor voice. I always tell people that I fell in love with
-    his voice. I could listen to him sing all day.\n\nThe problems began later.\n\nNow
-    go to ABUSE HAPPENS."
+  m_Sprite: {fileID: 0}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &549482454
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 549482450}
+  m_CullTransparentMesh: 1
 --- !u!222 &570659483
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1690,7 +1685,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 104.19998, y: -77}
+  m_AnchoredPosition: {x: 104.19998, y: -79}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1083882561
@@ -2125,8 +2120,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -15.95, y: -255.46503}
-  m_SizeDelta: {x: 325.29, y: 684.46}
+  m_AnchoredPosition: {x: -15.95, y: -267.07}
+  m_SizeDelta: {x: 325.29, y: 707.66}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1279801308
 MonoBehaviour:
@@ -2170,7 +2165,8 @@ MonoBehaviour:
     now. My mother went back to school a few years ago and now she works in real
     estate. \n\nI met John at church. He helped with the choir for a while. He had
     the most beautiful tenor voice. I always tell people that I fell in love with
-    his voice. I could listen to him sing all day.\n\nThe problems began later."
+    his voice. I could listen to him sing all day.\n\nThe problems began later.\n\nGo
+    to ABUSE HAPPENS."
 --- !u!222 &1279801309
 CanvasRenderer:
   m_ObjectHideFlags: 0
